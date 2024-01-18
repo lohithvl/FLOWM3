@@ -1,8 +1,7 @@
 
 # NFT Minting
 
-This code provides a basic example of how to mint non-fungible tokens (NFTs) in Candence on the Flow blockchain. This code can be used as a starting point for creating your own NFTs on the Flow network.
-
+This code serves as a foundational example illustrating the process of minting non-fungible tokens (NFTs) in Cadence on the Flow blockchain. It can be employed as a launching point for the development of your customized NFTs on the Flow network.
 
 ## Description
 
